@@ -1,0 +1,14 @@
+{
+  "version": "0.1.3",
+  "pub_date": "2026-07-21T07:07:24Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTU5PMVkwQ3VVWmNSbzNPRjgyOVp0ZG4xNEdTM2VZT21idDNTZElLUUJFd0dwQ1E3bGp5MDR1U01VR3ZUL3htQVY2ZjFydEpZTlU4a05Ja2RuOS9yY25EbWI4V1pZamdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjE3Mjk0CWZpbGU6Um9ib2RvciBTQ0FEQS5hcHAudGFyLmd6CmFRZWhQNVl4VVRXb2JldWFCMm80dFdON2xERlNNWmsyTE9XMm1YWHJSQnhYdytUaGl5a3g1OTdVb2ZRdHhxMS9ycCt1ankwOE1TUjhZMC8rUzlFbEFBPT0K",
+      "url": "https://raw.githubusercontent.com/gokturkgocen/robodor-scada-releases/main/Robodor%20SCADA.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTU5PMVkwQ3VVWlJTamdnL09WTFZHMXNSUnFtSU9SVGhBZnhjZm1iVEdJNzZRZGJBOWhRaHJDeXdWT2M1TkNRbHpGU2w5UUxOd0c3eHpjWHhtcGN2TE0vZDJ4SXdORkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjE3NjE4CWZpbGU6Um9ib2RvciBTQ0FEQV8wLjEuM194NjRfZW4tVVMubXNpCnBDejkxNitIWENsREgzUzN2SHZPZGpyMG9DMTRyZ0F3cHd5K0dBZGFFRWlmM2hWSlBKK2RhTEIyb25icWk2TGhBKzhQb25mN2JId1pJaFp4YkFVTkRnPT0K",
+      "url": "https://raw.githubusercontent.com/gokturkgocen/robodor-scada-releases/main/Robodor%20SCADA_0.1.3_x64_en-US.msi"
+    }
+  }
+}
